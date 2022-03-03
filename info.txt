@@ -1,0 +1,7 @@
+1. create classifier which takes data from openmil
+2. Create flask app
+3. post data prediction model to API
+4. We have to check whether prediction is correct or not by postman
+
+
+
